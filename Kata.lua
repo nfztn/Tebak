@@ -1,4 +1,4 @@
---// Nfztn V.1(Roblox LocalScript)
+--// Nfztn V1(Roblox LocalScript)
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
@@ -86,7 +86,7 @@ title.BackgroundTransparency = 1
 title.Position = UDim2.new(0, 8, 0, 6)
 title.Size = UDim2.new(1, -40, 0, 18)
 title.Font = Enum.Font.GothamBold
-title.Text = "Nfztn V.1"
+title.Text = "Nfztn V1"
 title.TextColor3 = Color3.fromRGB(255, 255, 255)
 title.TextSize = 10
 title.TextXAlignment = Enum.TextXAlignment.Left
